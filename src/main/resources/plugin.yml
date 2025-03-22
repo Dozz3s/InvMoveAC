@@ -1,0 +1,6 @@
+name: InvMoveAC
+version: '1.2-SNAPSHOT'
+main: com.dozz3s.invmoveac.InvMoveAC
+api-version: '1.16'
+authors: [Dozz3s]
+description: Простенький плагин против эксплойта InventoryMove
